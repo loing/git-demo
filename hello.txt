@@ -3,3 +3,4 @@ two write
 hotfix
 hotfix two
 master test
+hot-fix test
